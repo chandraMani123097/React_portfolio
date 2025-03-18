@@ -17,6 +17,13 @@ const projectsData = [
     link: "https://github.com/chandraMani123097/tic-tac-toe",
   },
   {
+    title: "Weather Chat-Bot",
+    description:
+      " A Chat-Bot that provides weather updates by fetching data from API's. Built using HTML, CSS, JavaScript and API integration.",
+    techStack: [<FaHtml5 />, <FaCss3Alt />, <FaJsSquare />],
+    link: " https://github.com/chandraMani123097/weather-chatbot",
+  },
+  {
     title: "Calculator",
     description:
       "A fully functional calculator built using React. It performs basic arithmetic operations and includes a responsive design.",

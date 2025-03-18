@@ -21,7 +21,7 @@ const projectsData = [
     description:
       " A Chat-Bot that provides weather updates by fetching data from API's. Built using HTML, CSS, JavaScript and API integration.",
     techStack: [<FaHtml5 />, <FaCss3Alt />, <FaJsSquare />],
-    link: " https://github.com/chandraMani123097/weather-chatbot",
+    link: "  https://chandramani123097.github.io/College-projects/",
   },
   {
     title: "Calculator",

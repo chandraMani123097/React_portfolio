@@ -35,7 +35,7 @@ const projectsData = [
     description:
       "A secure password generator built using React. It generates random passwords with customizable length and complexity.",
     techStack: [<FaHtml5 />, <FaCss3Alt />, <FaJsSquare />, <FaReact />],
-    link: "https://github.com/chandraMani123097/password-generator",
+    link: "https://chandramani123097.github.io/password-generator-/",
   },
   {
     title: "Currency Converter",
